@@ -10,3 +10,17 @@ package.xml
 
 # LWC Jest
 **/__tests__/**
+
+# Except Metadatas
+Admin.profile
+Custom%3A Marketing Profile.profile
+Custom%3A Sales Profile.profile
+Custom%3A Support Profile.profile
+
+force-app/main/default/profiles/Admin.profile-meta.xml
+force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml
+force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml
+force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml
+
+AppSwitcher.appMenu
+force-app/main/default/appMenus/AppSwitcher.appMenu-meta.xml

@@ -1,5 +1,17 @@
 {
   "orgName": "stohru company",
   "edition": "Developer",
-  "features": []
+  "language": "en_US",
+  "features": ["ProcessBuilder",
+              "Workflow",
+              "Communities", 
+              "RecordTypes"],
+  "settings": {
+      "communitiesSettings": {
+        "enableNetworksEnabled": true  
+      },
+      "lightningExperienceSettings": {
+        "enableS1DesktopEnabled": true
+      }
+  } 
 }
